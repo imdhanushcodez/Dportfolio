@@ -35,7 +35,7 @@ const projects = [
     id: 4,
     title: "PASSENGER PRO",
     description: "a App for Local Bus Passenger",
-    image: "./src/assets/ppb.png",
+    image: "/src/assets/ppb.png",
     tags: ["JAVA", "Android Studio", "FireBase"],
     demoUrl: "#",
     githubUrl: "https://github.com/imdhanushcodez/passengerproapp",
