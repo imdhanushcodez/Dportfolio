@@ -4,8 +4,14 @@ import { ArrowDown } from 'lucide-react'
 function HeroSection() {
   return (
     <section id="hero" className="relative min-h-screen flex flex-col items-center justify-center px-4">
-        <div className="container max-w-4xl mx-auto text-center z-10">
-            <div className="space-y-6">
+        <div className="container max-w-4xl mx-auto text-center z-10 ">
+            <div className="space-y-6 flex-col justify-center items-center justify-items-center ">
+
+                <div className='h-40 w-40 bg-primary rounded-full p-1'>
+                    <img src="/projects/dhanush2.jpeg" className='rounded-full h-38 w-38 '></img>
+                </div>
+
+
                 <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
                     <span className="opacity-0 animate-fade-in">Hi, I'm</span>
                     <span className="text-primary opacity-0 animate-fade-in-delay-1">{" "}Dhanush</span>
