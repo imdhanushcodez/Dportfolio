@@ -21,7 +21,7 @@ function HeroSection() {
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
                     I am  passoniate Software Developer with modern technologies.
                     Specializing in Fullstack development, I build software that are 
-                    help for business peoples.
+                    helpful for business peoples.
                 </p>
 
                  <div className="pt-4 opacity-0 animate-fade-in-delay-4">
