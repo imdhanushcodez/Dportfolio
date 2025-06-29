@@ -41,6 +41,16 @@ const projects = [
     githubUrl: "https://github.com/imdhanushcodez/passengerproapp",
   },
 
+   {
+    id: 5,
+    title: "DEVELOPERFAB ",
+    description: "a WebSite for our saas based startup",
+    image: "/projects/dfb.png",
+    tags: ["HTML & CSS", "JS", "Netlify"],
+    demoUrl: "https://developerfab.netlify.app/",
+    githubUrl: "https://github.com/imdhanushcodez/Developersfab",
+  },
+
 
 ];
 
